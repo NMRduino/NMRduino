@@ -1,8 +1,9 @@
-#### A modular, open-source platform for sub-MHz NMR
+## A modular, open-source platform for sub-MHz NMR
 
-Many students, researchers and hobbyists will be familiar with the open-source-electronics ecosystem “Arduino”, which provides an extraordinarily simple way to interface sensors (or other input devices) and actuators (output) with logic programs, e.g. C code, to create a wide variety of standalone control devices termed embedded systems.  An NMR spectrometer can be regarded as one specific type of embedded system: the output is a magnetic field produced by a coil, the input is a magnetic field (detected and recorded by a digitizer), and a pulse programmer keeps timing and data in order.
+#### Introduction
+Many students, researchers and hobbyists will be familiar with the [Arduino](https://arduino.cc) open-source-electronics ecosystem, which provides an extraordinarily simple way to interface sensors (or other input devices) and actuators (output) with logic programs, e.g. C code, to create a wide variety of standalone control devices termed embedded systems.  A Nuclear Magnetic Resonance (**NMR**) spectrometer can be regarded as one specific type of embedded system: the output is a magnetic field produced by a coil, the input is a magnetic field (detected and recorded by a digitizer), and a pulse programmer keeps timing and data in order.
 
-The “NMRduino” is a magnetic resonance spectrometer based on (but we must stress, not endorsed or supported by) Arduino that we have developed over recent years to study hyperpolarized NMR systems, NMR relaxation, high-resolution spectroscopy, and coherent control at low magnetic fields, as well as teach basic principles of magnetic resonance to student beginners
+The **NMRduino** is a magnetic resonance spectrometer based on (but we must stress, not endorsed or supported by) Arduino that we have developed over recent years to study hyperpolarized NMR systems, NMR relaxation, high-resolution spectroscopy, and coherent control at low magnetic fields, as well as teach basic principles of magnetic resonance to student beginners
 
 Main features are:
 
@@ -12,4 +13,5 @@ Main features are:
 
 -  Flexibility.  Can be connected to conventional rf-inductive pickup coils, or alternative sensors such as atomic magnetometers.
 
+#### External resources
 URLs: https://www.opensourceimaging.org/project/nmrduino/
