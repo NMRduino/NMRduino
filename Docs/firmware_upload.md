@@ -54,10 +54,10 @@ Alternatively, check the computer's device manager for connected ports.
 
 ## Download the NMRduino/Teensy firmware from GitHub
 
-The latest NMRduino firmware will always be located on this GitHub
+The most up-to-date NMRduino firmware will always be located on this GitHub
 repository.
 
-1.    Download files from [../Software/MCU/latest](../Software/MCU/latest).  This is the latest version of NMRduino.
+1.    Visit [../Software/MCU/latest](../Software/MCU/latest) to download the latest version of NMRduino.
 
 1.    Click on the green "Code" button, and then click "Download ZIP" to
 download the firmware as a ZIP file.
