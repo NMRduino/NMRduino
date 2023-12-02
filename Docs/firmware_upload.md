@@ -57,7 +57,7 @@ Alternatively, check the computer's device manager for connected ports.
 The latest NMRduino firmware will always be located on this GitHub
 repository.
 
-1.    Download files from [https://github.com/NMRduino/NMRduino/blob/main/Firmware/latest](https://github.com/NMRduino/NMRduino/blob/main/Firmware/latest).  This is the latest version of NMRduino.
+1.    Download files from [Software/MCU/latest](Software/MCU/latest).  This is the latest version of NMRduino.
 
 1.    Click on the green "Code" button, and then click "Download ZIP" to
 download the firmware as a ZIP file.
