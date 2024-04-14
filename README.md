@@ -14,4 +14,5 @@ Main features are:
 -  Flexibility.  Can be connected to conventional rf-inductive pickup coils, or alternative sensors such as atomic magnetometers.
 
 #### External resources
-URLs: https://www.opensourceimaging.org/project/nmrduino/
+Open Source Imaging (FOSS/OSHW magnetic resonance directory): https://www.opensourceimaging.org/project/nmrduino/ </br>
+Journal of Magnetic Resonance (article by the authors of NMRduino, May 2024): https://doi.org/10.1016/j.jmr.2024.107665
