@@ -16,7 +16,8 @@ Please check back for updates.  When you update firmware, check for UI version c
 In future, compatibility checking will be an automatic feature of the UI.  For now though, you need to do it.
 
 ## Hex file
-If you prefer, a compiled HEX file is also available.  [Latest version](https://github.com/NMRduino/NMRduino/blob/main/Software/MCU/latest/NMRduino_v1.01-GPL3-release.ino.hex).
+If you prefer simplicity, and don't want to edit the code, a compiled HEX file is also available:  [Latest version](https://github.com/NMRduino/NMRduino/blob/main/Software/MCU/latest/NMRduino_v1.01-GPL3-release.ino.hex).
+The HEX file can be uploaded to the MCU using [Teensy Loader](https://www.pjrc.com/teensy/loader.html).
 
 ## License
 You use this software at your own risk and liability.  You also agree to obey the license agreement(s) outlined below.  
