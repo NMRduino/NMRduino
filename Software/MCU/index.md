@@ -17,6 +17,7 @@ In future, compatibility checking will be an automatic feature of the UI.  For n
 
 ## Hex file
 If you prefer simplicity, and don't want to edit the code, a compiled HEX file is also available:  [Latest version](https://github.com/NMRduino/NMRduino/blob/main/Software/MCU/latest/NMRduino_v1.01-GPL3-release.ino.hex).
+
 The HEX file can be uploaded to the MCU using [Teensy Loader](https://www.pjrc.com/teensy/loader.html).
 
 ## License
