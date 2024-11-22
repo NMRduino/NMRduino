@@ -20,5 +20,5 @@ To get running, you'll need a copy of NMRduino's firmware: [Latest version here]
 plus the user interface. Select the version for your operating system: [Raspberry Pi](https://github.com/NMRduino/), [Windows xx](https://github.com/NMRduino/)
 
 ### External resources
-Open Source Imaging (FOSS/OSHW magnetic resonance directory): https://www.opensourceimaging.org/project/nmrduino/ </br>
-Journal of Magnetic Resonance (article by the authors of NMRduino, May 2024): https://doi.org/10.1016/j.jmr.2024.107665
+[NMRduino at Open Source Imaging](https://www.opensourceimaging.org/project/nmrduino/), a directory of FOSS/OSHW magnetic resonance projects </br>
+[NMRduino in the Journal of Magnetic Resonance](https://doi.org/10.1016/j.jmr.2024.107665).  A FREE TO READ article written by the creators of NMRduino, published May 2024 
