@@ -1,9 +1,16 @@
 # PCB Gerber files for NMRduino
 
-## Description 
-Gerber files for PCB manufacture.  The files uses standard naming conventions for a two-layer PCB.  Download the [Gerber ZIP file here](https://github.com/NMRduino/NMRduino/blob/main/Hardware/NMRduino-GERBER-Rev0923.zip).
+## Description
 
-A schematic will be added in due course
+Gerber files for PCB manufacture. The files use standard naming conventions for a two-layer PCB.
+
+[Download the Gerber ZIP file](./NMRduino-GERBER-Rev0923.zip)
+
+Quick links:
+
+- [NMRduino schematic (PDF)](./NMRduino-1_0-schematic-251212.pdf)
+- [NMRduino bill of materials (Excel)](./Bill%20of%20materials.xlsx)
 
 ## License
-NMRduino hardware designs are released under a Creative Commons Attribution ShareAlike (CC-BY-SA, [read the license here](https://creativecommons.org/licenses/by-sa/4.0/deed)).  By using NMRduino, you agree to the terms of this license.
+
+The NMRduino hardware designs are released under the [Creative Commons Attribution-ShareAlike 4.0 International licence](https://creativecommons.org/licenses/by-sa/4.0/). By using the NMRduino hardware designs, you agree to the terms of this licence.

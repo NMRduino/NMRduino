@@ -1,5 +1,7 @@
 # A modular, open-source platform for sub-MHz NMR
 
+<img width="689" height="349" alt="Screenshot 2026-08-05 at 17 58 48" src="https://github.com/user-attachments/assets/22dfa7a8-51a1-434b-9a14-c0ab45bc0116" />
+
 ### Introduction
 Many students, researchers and hobbyists will be familiar with the [Arduino](https://arduino.cc) open-source-electronics ecosystem, which provides an extraordinarily simple way to interface sensors (or other input devices) and actuators (output) with logic programs, e.g. C code, to create a wide variety of standalone control devices termed embedded systems.  A [Nuclear Magnetic Resonance](https://en.wikipedia.org/wiki/Nuclear_magnetic_resonance) (**NMR**) spectrometer can be regarded as one specific type of embedded system: the output is a magnetic field produced by a coil, the input is a magnetic field (detected and recorded by a digitizer), and a pulse programmer keeps timing and data in order.
 
@@ -18,6 +20,10 @@ Main features are:
 To get running, you'll need a copy of NMRduino's firmware: [Latest version here](https://github.com/NMRduino/NMRduino/blob/main/Software/MCU/index.md)
 
 plus the user interface. Select the version for your operating system: [Raspberry Pi](https://github.com/NMRduino/), [Windows xx](https://github.com/NMRduino/)
+
+### Hardware
+
+[Bill of Materials for NMRduino](https://github.com/NNMRduino/NMRduino/blob/main/Hardware/Bill%20of%20materials.xlsx)
 
 ### External resources
 [NMRduino at Open Source Imaging](https://www.opensourceimaging.org/project/nmrduino/), a directory of FOSS/OSHW magnetic resonance projects </br>
