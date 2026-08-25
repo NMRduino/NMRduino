@@ -17,9 +17,9 @@ Main features are:
 
 ### Software
 
-To get running, you'll need a copy of NMRduino's firmware: [Latest version here](https://github.com/NMRduino/NMRduino/blob/main/Software/MCU/index.md)
+To get running, you'll need a copy of NMRduino's firmware: [Latest version here](https://github.com/NNMRduino/NMRduino/tree/main/Software/MCU/latest)
 
-plus the user interface. Select the version for your operating system: [Raspberry Pi](https://github.com/NMRduino/), [Windows xx](https://github.com/NMRduino/)
+plus the user interface. Select the version for your operating system: [Windows 11](https://github.com/NMRduino/)
 
 ### Hardware
 
