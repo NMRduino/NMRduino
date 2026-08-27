@@ -1,16 +1,17 @@
-# PCB Gerber files for NMRduino
+# NMRduino hardware
 
 ## Description
 
-Gerber files for PCB manufacture. The files use standard naming conventions for a two-layer PCB.
+This directory documents the NMRduino circuit board and printable accessories.
 
-[Download the Gerber ZIP file](./NMRduino-GERBER-Rev0923.zip)
-
-Quick links:
-
-- [NMRduino schematic (PDF)](./NMRduino-1_0-schematic-251212.pdf)
-- [NMRduino bill of materials (Excel)](./Bill%20of%20materials.xlsx)
+- [gerber_files.md](gerber_files.md) — PCB Gerber files for manufacture, plus the schematic
+- [case.md](case.md) — 3D-printable protective case
+- [Bill of materials.xlsx](./Bill%20of%20materials.xlsx) — full parts list
+- [Datasheets/](Datasheets/README.md) — datasheets for every modular component used on the board
 
 ## License
 
-The NMRduino hardware designs are released under the [Creative Commons Attribution-ShareAlike 4.0 International licence](https://creativecommons.org/licenses/by-sa/4.0/). By using the NMRduino hardware designs, you agree to the terms of this licence.
+The hardware designs (PCB Gerbers, schematic, 3D-printable case) are released under the
+[Creative Commons Attribution-ShareAlike 4.0 International licence](https://creativecommons.org/licenses/by-sa/4.0/),
+vendored in the repository's top-level [`LICENSE-HARDWARE`](../LICENSE-HARDWARE) file. This is
+separate from the firmware, which is GPL-3.0 (see [`LICENSE`](../LICENSE)).

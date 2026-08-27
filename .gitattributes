@@ -1,5 +1,0 @@
- PCB fabrication files, not source code
-**/*.pls linguist-generated=true
-
-# Compiled firmware
-**/*.hex linguist-generated=true

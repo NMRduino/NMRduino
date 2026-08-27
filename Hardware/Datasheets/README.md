@@ -10,7 +10,7 @@ In this folder, you can find datasheets for each of the modular components used 
 
 - DAC module
    - _MCP482X.pdf_ - Datasheet for Microchip's MCP4822 dual-channel 12-bit digital-to-analog converter
-   - _L272.pdf_ - Datasheet for Analog Devices' L272D dual-channel operational amplifier
+   - _l272.pdf_ - Datasheet for Analog Devices' L272D dual-channel operational amplifier
    - _drv8838.pdf_ - Datasheet for Texas Instruments' single-channel H-bridge IC DRV8838
    - _drv8838-dual-motor-driver-carrier-dimensions.pdf_ - Specific data for Pololu DRV8838 carrier board
    - _drv8838-dual-motor-driver-carrier-schematic.pdf_ - Circuit layout for Pololu DRV8838 carrier board

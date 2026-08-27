@@ -17,13 +17,25 @@ Main features are:
 
 ### Software
 
-To get running, you'll need a copy of NMRduino's firmware: [Latest version here](https://github.com/NNMRduino/NMRduino/tree/main/Software/MCU/latest)
+To get running, you'll need a copy of NMRduino's firmware: see [Firmware](Firmware/README.md) for
+the source, or grab a pre-built `.hex` from the [latest release](https://github.com/NNMRduino/NMRduino/releases/latest).
 
-plus the user interface. Select the version for your operating system: [Windows 11](https://github.com/NMRduino/)
+NMRduino Graphical User Interface
+For various reasons, the user interface is stored in a separate GitHub repository. Visit the
+[NMRduino-GUI repository](https://github.com/NNMRduino/NMRduino-GUI) for source, or the
+[latest compiled UI release](https://github.com/NNMRduino/NMRduino-GUI/releases/latest), suitable
+for Windows 11. Raspberry Pi and Linux support will be added in the near future.
 
 ### Hardware
 
-[Bill of Materials for NMRduino](https://github.com/NNMRduino/NMRduino/blob/main/Hardware/Bill%20of%20materials.xlsx)
+See [Hardware](Hardware/README.md) for the PCB Gerber files, schematic, 3D-printable case, and
+[Bill of Materials](Hardware/Bill%20of%20materials.xlsx).
+
+### License
+
+Firmware and other source code is licensed under GPL-3.0 (see [`LICENSE`](LICENSE)). Hardware
+designs (PCB Gerbers, schematic, 3D-printable case, under [Hardware/](Hardware/)) are licensed
+separately under CC-BY-SA-4.0 (see [`LICENSE-HARDWARE`](LICENSE-HARDWARE)).
 
 ### External resources
 [NMRduino at Open Source Imaging](https://www.opensourceimaging.org/project/nmrduino/), a directory of FOSS/OSHW magnetic resonance projects </br>
