@@ -4,7 +4,7 @@
 Place your NMRduino inside this protective case.  This helps the module to sit neatly on your table, as well as avoid unintentional electrical shorts to connections on the underside of the board.
 
 ## Latest file
-`NMRduino_case.stl`, published as an asset on the [latest NMRduino release](https://github.com/NNMRduino/NMRduino/releases/latest).
+`NMRduino_case.stl`, published as an asset on the [latest NMRduino release](https://github.com/NMRduino/NMRduino/releases/latest).
 
 ## Best printing material
 ABS or PLA filament. Afterwards, one can place threaded inserts; we recommend Ruthex's product RX-M2.5x5.7 ([Amazon link](https://www.amazon.es/ruthex-inserto-roscado-M2-5-piezas/dp/B088QJDPKK), working 11/2024)
