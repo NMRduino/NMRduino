@@ -18,12 +18,12 @@ Main features are:
 ### Software
 
 To get running, you'll need a copy of NMRduino's firmware: see [Firmware](Firmware/README.md) for
-the source, or grab a pre-built `.hex` from the [latest release](https://github.com/NNMRduino/NMRduino/releases/latest).
+the source, or grab a pre-built `.hex` from the [latest release](https://github.com/NMRduino/NMRduino/releases/latest).
 
 NMRduino Graphical User Interface
 For various reasons, the user interface is stored in a separate GitHub repository. Visit the
-[NMRduino-GUI repository](https://github.com/NNMRduino/NMRduino-GUI) for source, or the
-[latest compiled UI release](https://github.com/NNMRduino/NMRduino-GUI/releases/latest), suitable
+[NMRduino-GUI repository](https://github.com/NMRduino/NMRduino-GUI) for source, or the
+[latest compiled UI release](https://github.com/NMRduino/NMRduino-GUI/releases/latest), suitable
 for Windows 11. Raspberry Pi and Linux support will be added in the near future.
 
 ### Hardware
