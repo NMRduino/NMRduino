@@ -4,7 +4,7 @@
 Microcontroller code for NMRduino.  Compatible with [Teensy 4.1](https://www.pjrc.com/store/teensy41.html)
 
 ## Latest version
-**Version:** 1.2.0. **Last update:** 27/08/2026. [Source available here](https://github.com/NNMRduino/NMRduino/tree/main/Firmware)
+**Version:** 1.2.0. **Last update:** 27/08/2026. [Source available here](https://github.com/NMRduino/NMRduino/tree/main/Firmware)
 
 **Compatibility:** requires NMRduino-GUI version 3.37+.
 
@@ -18,7 +18,7 @@ In future, compatibility checking will be an automatic feature of the UI.  For n
 See [upload.md](upload.md) for a full step-by-step flashing guide.
 
 ## Hex file
-If you prefer simplicity, and don't want to edit the code, a compiled HEX file is also available on the [latest release](https://github.com/NNMRduino/NMRduino/releases/latest): `NMRduino_firmware_v1.2.0.hex`.
+If you prefer simplicity, and don't want to edit the code, a compiled HEX file is also available on the [latest release](https://github.com/NMRduino/NMRduino/releases/latest): `NMRduino_firmware_v1.2.0.hex`.
 
 The HEX file can be uploaded to the MCU using [Teensy Loader](https://www.pjrc.com/teensy/loader.html).
 
