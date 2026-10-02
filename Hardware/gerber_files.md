@@ -4,7 +4,7 @@
 
 Gerber files for PCB manufacture. The files use standard naming conventions for a two-layer PCB.
 
-Both files are published as assets on the [latest NMRduino release](https://github.com/NNMRduino/NMRduino/releases/latest):
+Both files are published as assets on the [latest NMRduino release](https://github.com/NMRduino/NMRduino/releases/latest):
 
 - Gerber ZIP file: `NMRduino_Gerber_v1.2.0.zip`
 - NMRduino schematic (PDF): `NMRduino_schematic_v1.2.0.pdf`
