@@ -57,11 +57,11 @@ Alternatively, check the computer's device manager for connected ports.
 The most up-to-date NMRduino firmware source is always located in this
 [Firmware](.) folder. If you'd rather skip compiling it yourself, a pre-built
 `.hex` file is also available on the [latest NMRduino
-release](https://github.com/NNMRduino/NMRduino/releases/latest) — see
+release](https://github.com/NMRduino/NMRduino/releases/latest) — see
 [README.md](README.md) for how to upload that instead using Teensy Loader.
 
 1.    Click on the green "Code" button on the [repository
-page](https://github.com/NNMRduino/NMRduino), and then click "Download ZIP" to
+page](https://github.com/NMRduino/NMRduino), and then click "Download ZIP" to
 download the firmware source as a ZIP file.
 
 1.    Extract the contents of the ZIP file to a location on your computer.
