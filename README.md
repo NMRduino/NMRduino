@@ -24,7 +24,8 @@ NMRduino Graphical User Interface
 For various reasons, the user interface is stored in a separate GitHub repository. Visit the
 [NMRduino-GUI repository](https://github.com/NMRduino/NMRduino-GUI) for source, or the
 [latest compiled UI release](https://github.com/NMRduino/NMRduino-GUI/releases/latest), suitable
-for Windows 11. Raspberry Pi and Linux support will be added in the near future.
+for Windows 11. 
+[Instructions to run on Raspberry Pi](https://github.com/NMRduino/NMRduino-GUI#c-build-on-raspberry-pi) (e.g., Pi400) are also available.
 
 ### Hardware
 
